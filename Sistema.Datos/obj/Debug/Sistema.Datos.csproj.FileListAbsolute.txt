@@ -1,0 +1,50 @@
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+F:\Tutoria\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+F:\Tutoria\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+F:\Tutoria\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+F:\Tutoria\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+F:\Tutoria\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+F:\Tutoria\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+F:\Tutoria\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+F:\Tutoria\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\SISTEMA\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\SISTEMA\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\SISTEMA\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\SISTEMA\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\SISTEMA\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\SISTEMA\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\SISTEMA\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\SISTEMA\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Datos\obj\Debug\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.CopyComplete
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\SISTEMA\Sistema.Datos\obj\Debug\Sistema.Datos.csproj.AssemblyReference.cache

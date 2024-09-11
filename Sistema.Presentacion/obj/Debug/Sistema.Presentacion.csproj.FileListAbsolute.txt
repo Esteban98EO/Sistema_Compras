@@ -1,0 +1,299 @@
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPeriodo.resources
+F:\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+F:\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+F:\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+F:\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+F:\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+F:\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+F:\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+F:\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+F:\Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+F:\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+F:\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPeriodo.resources
+F:\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+F:\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+F:\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+F:\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+F:\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+F:\Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPeriodo.resources
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\Sistema Tutoria\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor.resources
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRequisicion.resources
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ProveedorCompras.resources
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\stdole.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor.resources
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRequisicion.resources
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ProveedorCompras.resources
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteRegistroProductos.resources
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteCompras.resources
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\BarcodeStandard.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\System.Drawing.Common.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\stdole.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmArticulo.resources
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmCategoria.resources
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmLogin.resources
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmPrincipal.resources
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmProveedor.resources
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRequisicion.resources
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmRol.resources
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmUsuario.resources
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FrmVista_ProveedorCompras.resources
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Properties.Resources.resources
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteCompras.resources
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Reportes.FrmReporteRegistroProductos.resources
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.CopyComplete
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.csproj.AssemblyReference.cache
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\RdlCompile.cache
+C:\SISTEMA\Sistema.Presentacion\obj\Debug\RdlCompile.compiled

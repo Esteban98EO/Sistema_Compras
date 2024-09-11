@@ -1,0 +1,27 @@
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\aldo_\source\repos\Tutoria\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+F:\Tutoria\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+F:\Tutoria\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+F:\Tutoria\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
+F:\Tutoria\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+F:\Tutoria\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\acer\Desktop\SEXTO SEMESTRE\Desarrolo e implementacion de sistemas de informacion\SISTEMA DE COMPRAS POR REQUISICION\SISTEMA\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\SISTEMA\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\SISTEMA\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\SISTEMA\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\SISTEMA\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\SISTEMA\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\acer\Desktop\SEPTIMO SEMESTRE\SISTEMA\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\SISTEMA\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache
